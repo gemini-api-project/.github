@@ -1,4 +1,8 @@
 ## Hi there 👋
+- Flutter
+- NodeJS
+- firebase
+- gemini API
 
 <!--
 
