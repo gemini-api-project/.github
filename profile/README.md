@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5007d112-e2cb-41bb-8bf4-6afd20f4edd1" width="30%">
+  <h1>LangLink</h1>
+</div>
+
 - Flutter
 - NodeJS
 - firebase
